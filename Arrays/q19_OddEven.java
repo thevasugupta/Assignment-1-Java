@@ -1,6 +1,8 @@
+package Arrays;
+
 import java.util.Scanner;
 
-public class OddEven {
+public class q19_OddEven {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
